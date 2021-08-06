@@ -1,0 +1,1116 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content=
+		"width=device-width, initial-scale=1.0">
+	<title>Abdoul Aziz ALLASSANI Portfolio</title>
+</head>
+
+<body>
+	<!--Header(start)-->
+  <table id="header"  border="0" >
+    <caption></caption>
+    <thead>
+      <tr>
+        <th id=""><img src="/home/abdoulazizallassani/Images/az.png" alt="AZIZ Picture"></th>
+      </tr>
+      <tr>
+        <td>
+          <h2><strong>Abdoul Aziz ALLASSANI</strong></h2>
+        </td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>  
+        <nav>
+          <div>
+            <th id="">
+      
+            </th>
+            <th id="">
+            
+            </th>
+            <th id="">
+            
+            </th>
+            <th id="">
+            
+            </th>
+            <th id="">
+            
+            </th>
+            <th id="">
+            
+            </th>
+            <th id="">
+            
+            </th>
+            <th id="">
+            
+            </th>
+            <th id="">
+            
+            </th>
+            <th id="">
+            
+            </th>
+            <th id="">
+            
+            </th>
+            <th id="">
+            
+            </th>
+            <th id="">
+            
+            </th>
+            <th id="">
+            
+            </th>
+            <th id="">
+            
+            </th>
+            <th id="">
+            
+            </th>
+            <th id="">
+            
+            </th>
+            <th id="">
+            
+            </th>
+            <th id="">
+            
+            </th>
+            <th id="">
+            
+            </th>
+            <th id="">
+            
+            </th>
+            <th id="">
+            
+            </th>
+            <th id="">
+            
+            </th>
+            <th id="">
+            
+            </th>
+            <th id="">
+            
+            </th>
+            <th id="">
+            
+            </th>
+            <th id="">
+            
+            </th>
+            <th id="">
+            
+            </th>
+            <th id="">
+            
+            </th>
+            <th id="">
+            
+            </th>
+            <th id="">
+            
+            </th>
+            <th id="">
+      
+            </th>
+            <th id="">
+            
+            </th>
+            <th id="">
+            
+            </th>
+            <th id="">
+            
+            </th>
+            <th id="">
+            
+            </th>
+            <th id="">
+            
+            </th>
+            <th id="">
+            
+            </th>
+            <th id="">
+            
+            </th>
+            <th id="">
+            
+            </th>
+            <th id="">
+            
+            </th>
+            <th id="">
+            
+            </th>
+            <th id="">
+            
+            </th>
+            <th id="">
+            
+            </th>
+            <th id="">
+            
+            </th>
+            <th id="">
+            
+            </th>
+            <th id="">
+            
+            </th>
+            <th id="">
+            
+            </th>
+            <th id="">
+            
+            </th>
+            <th id="">
+            
+            </th>
+            <th id="">
+            
+            </th>
+            <th id="">
+            
+            </th>
+            <th id="">
+            
+            </th>
+            <th id="">
+            
+            </th>
+            <th id="">
+            
+            </th>
+            <th id="">
+            
+            </th>
+            <th id="">
+            
+            </th>
+            <th id="">
+            
+            </th>
+            <th id="">
+            
+            </th>
+            <th id="">
+            
+            </th>
+            <th id="">
+            
+            </th>
+            <th id="">
+            
+            </th>
+            <th id="">
+              
+            </th>
+            <th id="">
+      
+            </th>
+            <th id="">
+      
+            </th>
+            <th id="">
+              <a href="#"><h2><strong>Home</strong></h2></a>
+            </th>
+            <th id="">
+      
+            </th>
+            <th id="">
+              <a href="#about"> <h2><strong>About</strong></h2></a>
+            </th>
+            <th id="">
+      
+            </th>
+            <th id="">
+              <a href="#work"><h2><strong>work</strong></h2></a>
+            </th>
+            <th id="">
+      
+            </th>
+            <th id="">
+              <a href="#resume"><h2><strong>Resume</strong></h2></a>
+            </th>
+            <th id="">
+      
+            </th>
+            <th id="">
+              <a href="#contact"><h2><strong>Contact</strong></h2></a>
+            </th>
+          </tr>
+          </div>
+  
+        </nav>       
+    </tbody>
+    
+  </table>
+	<!--Header(end)-->
+
+  <!-- Section(start) -->
+  <table border="1">
+    <caption></caption>
+    <th id=""><strong>Professional experience as a developer</strong></th>
+    <!--About(start)-->
+    <tr>
+      <section id="about">
+        <h2>About Me</h2>
+        <hr>
+        <article>
+          Thanks for your interest, here
+          is a quick story of me and this
+          website.
+          <hr>
+          Abdoul Aziz ALLASSANI An alumnus of the ESP Cheick Anta Diop in Dakar. 
+          He obtained a Master in Networks and Telecommunications.
+          The program offered by the ESP, gave him the opportunity to touch programming, from there was born his love for programming.
+          <br>
+          He enjoys solving programming problems in the most efficient way possible.
+          <br>
+          Apart from INTOUCH where he is currently working as a web services integrator, he has worked with HUBSO as a Java JEE developer and in the Centre National de Documentation Scientifique du sénégal as a PHP web developer trainee.
+          <hr>
+
+          I work mainly in PHP,
+          and JAVA. Java and data structure
+          and Algorithm are my strongest section.
+          In addition to that, I know web development,
+          LINUX and databases.
+          <hr>
+
+          This website is basically one of my
+          web development project that is built using 
+          built using HTML only.
+
+          Thanks again for reading this,
+          thanks to people like you, this site
+          will allow me to prosper and grow in the field of professional as a full-stack developer!
+          <hr>
+          Cheers,
+          <br>
+          <strong>Abdoul Aziz ALLASSANI.</strong>
+          <hr>
+        </article>
+      </section>
+    </tr>
+    <!--About(end)-->
+    <!--Work(start)-->
+    <tr>
+      <section id="work">
+        <h2>Work</h2>
+          <table border="1" >
+            <caption></caption>
+            <th id=""><p>04/2021 - 05/2021 </p></th>
+            <th id=""><p>09/2019 - 02/2020</p></th>
+            <th id=""><p>03/2019-02/2020 </p></th>
+            <th id=""><p>03/2018 - 09/2019 </p></th>
+            <tr>
+              <td>
+                <ul>
+                  <p>GomyCode Student  - Dakar, sénégal  </p>
+                  <p>
+                    <ul>
+                     <p> Design of my portfolio website using only HTML.</p>
+                    </ul> 
+                  </p>
+                </ul>
+              </td>
+              <td>
+                <ul>
+                  <br><br>
+                  <p>HUBSO Developer - Dakar, Sacre coeur 3 </p>
+                  <p>
+                    <ul>
+                      <li>Development of new features based on user requests for changes. </li>
+                      <li>Development of new features based on user requests. </li>
+                      <li>Integration of web services</li>
+                    </ul> 
+                  </p>
+                </ul>
+              </td>
+              <td>
+                <ul>
+                  <br><br>
+                  <p>Intern HUBSO - Dakar, Sacre coeur 3  </p>
+                  <p>
+                    <ul>
+                      <li>Intern in design and development. </li>
+                      <li>Integration of web and Java/JEE services. </li>
+                      <li>Reconciliation of completed transactions.</li>
+                    </ul> 
+                  </p>
+                </ul>
+              </td>
+              <td>
+                <ul>
+                  <br><br>
+                  <p>Intern at the national center of scientific and technical documentation of Senegal - Dakar.  </p>
+                  <p>
+                    <ul>
+                      <li>Creation of a website available on https://anstsdiaspora.sn for the Senegalese diaspora. </li>
+                      <li>Installation, configurations, deployment of archiving management software (Dspace, Koha. 
+                        and Atom). </li>
+                      <li>Participation in the meeting of November 08 
+                        2018, chaired by his Excellency the Minister of Higher Education, Research and Innovation, in the presence of experts from the ministry where we presented our project which was part of an approach to enhance the scientific heritage of 
+                        the scientific heritage of Senegal. </li>
+                      <li>
+                        <p>The video element</p>
+                        <video id="video" controls preload="metadata" width="320" height="240" autoplay>
+                          <source src="https://www.youtube.com/watch?v=-kaoMoy-P_Q&t=10s" type="video/mp4">                          <track label="English" kind="captions" srclang="en" src="resources/myvideo-en.vtt" default>
+                          Please Check the video extension.
+                       </video>
+                      </li>
+                    </ul> 
+                  </p>
+                </ul>
+              </td>
+            </tr>
+          </table>
+      </section>
+    </tr>
+    <!--Work(end)-->
+    <!--Resume(start)-->
+    <tr>
+      <section id="resume">
+        <h2>Resume</h2>
+        <div>
+          <embed src="/home/abdoulazizallassani/Téléchargements/CV.pdf" width="500" height="375" 
+ type="application/pdf">
+        </div>
+      </section>
+    </tr>
+    <!--Resume(end)-->
+    <!--Contact(start)-->
+    <tr>
+      <section id="contact" >
+        <h2>Contact</h2>
+        <tr >
+          <td>
+              <form>
+                <table border="0" >
+                  <caption></caption>
+                  <th id="">Please contact me via this form. </th>
+                    <tr>
+                      <td>
+                        Name
+                      </td>
+                      <td >
+                        <input type="text" size="40" placeholder="Type your name here" >
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>
+                        Email
+                      </td>
+                      <td>
+                        <input type="email" size="40" placeholder="Type your email here">
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>
+                        Number
+                      </td>
+                      <td>
+                        <input type="tel" size="12" value="00" >
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>
+                        Message
+                      </td>
+                      <td>
+                        <textarea rows="5"  cols="37" >
+                          Welcome, leave me a message.
+                        </textarea>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>
+                            
+                      </td>
+                      <td>
+                        <button type="Submit">
+                          <strong>Submit</strong>
+                        </button>
+                      </td>
+                    </tr>
+                </table>
+              </form>
+          </td>
+
+      </tr>
+      </section>
+    </tr>
+    <!--Contact(end)-->
+  </table>
+  <br>
+  <!-- Section(end) -->
+
+	<!--Footer(start)-->
+  <br>
+  <table border="0">
+    <caption></caption>
+    <div>
+      <th id="">
+        <p>Author: Abdoul Aziz ALLASSANI</p>
+        <p><a href="mailto:allassaniabdoulaziz@gmail.com">allassaniabdoulaziz@gmail.com</a></p>
+        <p>©Copyright 2050 by nobody.
+          All rights reserved.</p>
+      </th>
+    </div>
+    <div>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+      
+      </th>
+      <th id="">
+        <a href="#header">
+            <strong>TOP</strong>
+        </a>
+      </th>
+    </div>
+  </table>
+	<!--Footer(end)-->
+
+</body>
+
+</html>
+
