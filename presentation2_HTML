@@ -25,7 +25,8 @@
     </thead>
     <tbody>
       <tr>  
-        <nav id="nav">
+        <nav>
+          <tr>
             <th id="home">
               <a href="#"><h2><strong>Home</strong></h2></a>
             </th>
