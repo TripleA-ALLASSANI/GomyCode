@@ -6,15 +6,16 @@
 	<meta name="viewport" content=
 		"width=device-width, initial-scale=1.0">
 	<title>Abdoul Aziz ALLASSANI Portfolio</title>
+  <link rel="stylesheet" href="css/style.css">
 </head>
 
 <body>
 	<!--Header(start)-->
   <table id="header"  border="0" >
-    <caption></caption>
+    <caption> </caption>
     <thead>
       <tr>
-        <th id=""><img src="/home/abdoulazizallassani/Images/az.png" alt="AZIZ Picture"></th>
+        <th id="photo"><img src="/home/abdoulazizallassani/Images/az.png" alt="AZIZ Picture"></th>
       </tr>
       <tr>
         <td>
@@ -24,38 +25,23 @@
     </thead>
     <tbody>
       <tr>  
-        <nav>
-          <div>
-            <th id="">
+        <nav id="nav">
+            <th id="home">
               <a href="#"><h2><strong>Home</strong></h2></a>
             </th>
-            <th id="">
-      
-            </th>
-            <th id="">
+            <th id="aboutNav">
               <a href="#about"> <h2><strong>About</strong></h2></a>
             </th>
-            <th id="">
-      
-            </th>
-            <th id="">
+            <th id="workNav">
               <a href="#work"><h2><strong>work</strong></h2></a>
             </th>
-            <th id="">
-      
-            </th>
-            <th id="">
+            <th id="resumeNav">
               <a href="#resume"><h2><strong>Resume</strong></h2></a>
             </th>
-            <th id="">
-      
-            </th>
-            <th id="">
+            <th id="contactNav">
               <a href="#contact"><h2><strong>Contact</strong></h2></a>
             </th>
-          </tr>
-          </div>
-  
+          </tr>  
         </nav>       
     </tbody>
     
@@ -64,7 +50,7 @@
 
   <!-- Section(start) -->
   <table border="1">
-    <caption></caption>
+    <caption> </caption>
     <th id=""><strong>Professional experience as a developer</strong></th>
     <!--About(start)-->
     <tr>
@@ -113,11 +99,11 @@
       <section id="work">
         <h2>Work</h2>
           <table border="1" >
-            <caption></caption>
-            <th id=""><p>04/2021 - 05/2021 </p></th>
-            <th id=""><p>09/2019 - 02/2020</p></th>
-            <th id=""><p>03/2019-02/2020 </p></th>
-            <th id=""><p>03/2018 - 09/2019 </p></th>
+            <caption> </caption>
+            <th id="work4"><p>04/2021 - 05/2021 </p></th>
+            <th id="work3"><p>09/2019 - 02/2020</p></th>
+            <th id="work2"><p>03/2019-02/2020 </p></th>
+            <th id="work1"><p>03/2018 - 09/2019 </p></th>
             <tr>
               <td>
                 <ul>
@@ -202,8 +188,8 @@
           <td>
               <form>
                 <table border="0" >
-                  <caption></caption>
-                  <th id="">Please contact me via this form. </th>
+                  <caption> </caption>
+                  <th id="form">Please contact me via this form. </th>
                     <tr>
                       <td>
                         Name
@@ -243,7 +229,7 @@
                             
                       </td>
                       <td>
-                        <button type="Submit">
+                        <button type="button">
                           <strong>Submit</strong>
                         </button>
                       </td>
@@ -263,9 +249,9 @@
 	<!--Footer(start)-->
   <br>
   <table border="0">
-    <caption></caption>
+    <caption> </caption>
     <div>
-      <th id="">
+      <th id="author">
         <p>Author: Abdoul Aziz ALLASSANI</p>
         <p><a href="mailto:allassaniabdoulaziz@gmail.com">allassaniabdoulaziz@gmail.com</a></p>
         <p>©Copyright 2050 by nobody.
@@ -273,7 +259,7 @@
       </th>
     </div>
     <div>
-      <th id="">
+      <th id="top">
         <a href="#header">
             <strong>TOP</strong>
         </a>
