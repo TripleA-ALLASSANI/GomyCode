@@ -1,0 +1,100 @@
+//Create a function that takes an array of numbers and return both the minimum and maximum numbers, in that order.
+Code:
+	function minMax(arr) {	
+	  return [Math.min(...arr), Math.max(...arr)];
+	}
+
+
+//Create a function that returns true when num1 is equal to num2; otherwise return false.
+Code:
+	function isSameNum(num1, num2) {
+	  let isSameNum=false;
+	  if(num1 === num2){
+	    return true;
+	  }
+	  return isSameNum;
+	}
+
+
+//Create a function that takes an array of non-negative integers and strings and return a new array without the strings.
+Code:
+	function filterArray(arr) {
+		const result = arr.filter(word => (word === 0) || ((typeof word) === "number"));
+	  return result;
+	}
+
+//Take an array of integers (positive or negative or both) and return the sum of the absolute value of each element.
+Code: 
+	function getAbsSum(arr) {
+	  let sum = 0;
+	  for (let i = 0; i < arr.length; i++) {
+	      sum += Math.abs(arr[i]) ;
+	  }
+	  return sum;
+	}
+
+//Create a function which returns the number of true values there are in an array.
+Code:
+	function countTrue(arr) {
+	  var sum = 0;
+	  if(arr !== []){
+	    for (let i = 0; i < arr.length; i++) {
+	      if(arr[i] === true){
+		sum += 1 ;
+	      }
+	    }
+	  }
+
+	  return sum;
+	}
+
+//Given an object of how many more pages each ink color can print, output the maximum number of pages the printer can print before any of the colors run out.
+Code:
+	function inkLevels(inks) {
+	  let inkLevels = Object.values(inks);
+	  return Math.min(...inkLevels);
+	}
+
+//Write a function that converts an object into an array of keys and values.
+Code:
+	function objectToArray(obj) {
+		let objectToArray = Object.keys(obj).map((n) => [n, obj[n]]);
+	  return objectToArray;
+	}
+
+//Create the function that takes an array with objects and returns the sum of people's budgets.
+Code:
+	function getBudgets(obj) {
+	 var sum = 0;
+	    for (const element of obj) {
+		       sum += element["budget"] ;
+	    }
+	   return sum;
+	}
+
+//Given an object of people and their ages, return how old the people would be after n years have passed. Use the absolute value of n.
+Code:
+	function afterNYears(names, n) {
+	    for (const element in names) {
+	      names[element]= names[element]+Math.abs(n);
+	    }
+	    return names;
+	}
+
+//Suppose you have a guest list of students and the country they are from, stored as key-value pairs in an object.
+Code:
+	const GUEST_LIST = {
+	Randy: "Germany",
+	Karla: "France",
+	Wendy: "Japan",
+	Norman: "England",
+	Sam: "Argentina"
+	}
+
+	function greeting(name) {
+	  var greeting = "Hi! I'm a guest."
+	  if(`${name}` in GUEST_LIST){
+	    greeting = `Hi! I'm ${name}, and I'm from  ${GUEST_LIST[name]}.`;
+	  }
+	  return greeting;
+	}
