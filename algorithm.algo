@@ -1,0 +1,45 @@
+ALGORITHM read_a_sentence
+VAR
+    requestype : STRING;
+    sentence : STRING;
+    result : INTEGER:=0;
+BEGIN
+    SWITCH (requestype) DO
+        case "LENGHTOFSENTENCE" : lengtOfSentence(sentence);
+        case "NUMBEROFVOWELS" : FUNCTION numberOfVowels(sentence) : INTEGER
+        VAR
+            //INTEGER count := 0;
+            const vowels := ["a", "e", "i", "o", "u"];
+        BEGIN
+            // FOR i FROM 1 TO [...sentence].length STEP step  DO
+            //     IF (vowels.includes(letter)) THEN
+            //         count ++;
+            //     END_IF
+            // END_FOR
+            for(let letter of sentence.toLowerCase()) {
+                IF (vowels.includes(letter)) THEN
+                    count ++;
+                END_IF
+            }
+            result := count;
+            //count = sentence.match(/[aeiou]/gi).length;
+            RETURN result ;
+        END
+        case "NUMBEROFWORDS" : FUNCTION numberOfWords(sentence) : INTEGER
+        VAR
+            var tab := [];
+        BEGIN
+            tab := sentence.split(" ");
+            result := tab.length;
+            RETURN result ;
+        END
+        default : FUNCTION lengtOfSentence(sentence) : INTEGER
+        VAR
+            var lengtOfSentence;
+        BEGIN
+            lengtOfSentence := [...sentence].length;
+            result := lengtOfSentence;
+            RETURN result ;
+        END
+    END_SWITCH
+END
