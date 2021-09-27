@@ -1,0 +1,71 @@
+ALGORITHM manipulation_of_data_structures2
+VAR
+    element1, element2: ARRAY_OF INTEGER[];
+    htab,htab1,htab2 : HASH_TABLE<INTEGER,INTEGER>;
+
+    sum : INTEGER:=0;
+    i,count,singleElement,j: INTEGER;
+BEGIN
+    FOR i FROM 0 TO element1.length-1 DO
+        Read(tab[i]);
+    END_FOR
+    FOR i FROM 0 TO element2.length-1 DO
+        Read(tab[i]);
+    END_FOR
+    Write("Send the first element");
+    Read(element1);
+    Write("Send the second element");
+    Read(element2);
+    IF (element1.length <> 0 and element2.length <> 0) THEN
+        FOR i FROM 0 TO element1.length-1 STEP step  DO
+            IF (htab1.lookup(element1[i]) = TRUE) THEN
+                count := htab1.get(element1[i]);
+                htab1.insert(element1[i],count+1);
+            ELSE
+                htab1.insert(element1[i],1);
+            END_IF
+        END_FOR
+        FOR i FROM 0 TO element1.length-1 STEP step  DO
+            IF (htab1.get(element1[i]) = 1) THEN
+                singleElement := element1[i];
+                htab.insert(i, singleElement);
+                BREAK;
+            END_IF
+        END_FOR
+        FOR i FROM 0 TO element2.length-1 STEP step  DO
+            IF ((htab2.lookup(element2[i]) = TRUE) and i) THEN
+                count := htab2.get(element2[i]);
+                htab2.insert(element2[i],count+1);
+            ELSE
+                htab2.insert(element2[i],1);
+            END_IF
+        END_FOR
+        FOR i FROM 0 TO element2.length-1 STEP step  DO
+            IF (htab2.get(element2[i]) = 1) THEN
+                singleElement := element2[i];
+                j := htab.length;
+                WHILE ((htab.lookup(i)  = singleElement)) DO
+                    htab[j] := htab[j+1];
+                    htab.insert(j-1, singleElement);
+                END_WHILE
+                BREAK;
+            END_IF
+        END_FOR
+        FOR i FROM 0 TO htab.length-1 STEP step  DO
+            sum = sum + htab.get(i);
+        END_FOR
+    ELSE_IF (element1.length = 0 and element2.length <> 0) THEN
+        FOR i FROM 0 TO element2.length-1 STEP step  DO
+            sum := sum + element2[i];
+        END_FOR
+    ELSE_IF (element1.length <> 0 and element2.length = 0) THEN
+        FOR i FROM 0 TO element1.length-1 STEP step  DO
+            sum := sum + element1[i];
+        END_FOR
+    ELSE_IF (element1.length = 0 and element2.length = 0) THEN
+        Write("Send elements");
+    ELSE
+        Write("Send elements");
+    END_IF
+    Write("The sum of the total of the unrepeated elements in the two sets is :" & sum);
+END
