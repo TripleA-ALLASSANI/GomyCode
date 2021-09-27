@@ -1,4 +1,4 @@
-ALGORITHM search_array
+ALGORITHM number_of_words
 VAR
   point,characterOfTheSentence : CHAR;
   str : STRING[] := " ";
