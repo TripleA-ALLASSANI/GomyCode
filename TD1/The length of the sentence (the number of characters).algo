@@ -1,0 +1,16 @@
+ALGORITHM number_of_characters
+VAR
+  point : CHAR;
+  str : STRING[] := " ";
+  countNumberOfCharacters : INTEGER;
+BEGIN
+  Write("Give the sentence");
+  Read(str);
+  point := str[str.length-1];
+  IF (point = '.') THEN
+    countNumberOfCharacters := str.length;
+    Write("The number of characters in this sentence is : "& countNumberOfCharacters );
+  ELSE
+    Write("Give the sentence and that it ends with (.)");
+  END_IF
+END

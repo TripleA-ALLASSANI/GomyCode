@@ -1,0 +1,31 @@
+ALGORITHM search_array
+VAR
+  point,strCharacter : CHAR;
+  str : STRING[] := " ";
+  i : INTEGER;
+  countNumberOfVowels : INTEGER:=0;
+BEGIN
+  Write("Give the sentence");
+  Read(str);
+  point := str[str.length-1];
+  IF (point = '.') THEN
+      FOR i FROM 0 TO str.length-1 STEP step  DO
+        strCharacter := str[i];
+        SWITCH (strCharacter) DO
+          case 'a' : countNumberOfVowels++;
+          case 'e' : countNumberOfVowels++;
+          case 'i' : countNumberOfVowels++;
+          case 'o' : countNumberOfVowels++;
+          case 'u' : countNumberOfVowels++;
+          default : Write(strCharacter & "is not a vowel")
+        END_SWITCH
+      END_FOR
+      IF (countNumberOfVowels = 0) THEN
+        Write("There is no vowel in the sentence")
+      ELSE
+        Write("The number of vowels in this sentence is :"& countNumberOfVowels)
+      END_IF
+  ELSE
+      Write("Give the sentence and that it ends with (.)");
+  END_IF
+END
