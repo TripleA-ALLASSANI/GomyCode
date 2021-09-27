@@ -4,13 +4,16 @@ VAR
   str : STRING[] := " ";
   countNumberOfCharacters : INTEGER;
 BEGIN
-  Write("Give the sentence");
-  Read(str);
-  point := str[str.length-1];
-  IF (point = '.') THEN
-    countNumberOfCharacters := str.length;
-    Write("The number of characters in this sentence is : "& countNumberOfCharacters );
+  IF (str <> " ") THEN
+    Read(str);
+    point := str[str.length-1];
+    IF (point = '.') THEN
+      countNumberOfCharacters := str.length;
+      Write("The number of characters in this sentence is : "& countNumberOfCharacters );
+    ELSE
+      Write("Give the sentence and that it ends with (.)");
+    END_IF
   ELSE
-    Write("Give the sentence and that it ends with (.)");
+     Write("Give the sentence");
   END_IF
 END
