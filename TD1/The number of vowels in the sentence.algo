@@ -1,4 +1,4 @@
-ALGORITHM search_array
+ALGORITHM number_of_vowels
 VAR
   point,strCharacter : CHAR;
   str : STRING[] := " ";
