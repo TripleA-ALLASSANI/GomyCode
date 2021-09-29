@@ -1,0 +1,21 @@
+PROCEDURE insetion_sort(VAR arr: ARRAY_OF INTEGER)
+VAR
+    n := arr.length;
+    current,j,first : INTEGER;
+BEGIN
+    FOR i FROM i+1 TO n-1 DO
+        //l'element actuel
+        current := arr[i];
+        //indice premier élément q ns considerons
+        j = i-1;
+        //premier élément
+        first := arr[j];
+        WHILE (j >= 0 and first > current) DO
+            //alors ns devons deplacer cet element vers la droite
+            arr[j+1] = first;
+            j--;
+        END_WHILE
+        //stocker l'element actuel à j+1
+        arr[j+1] = current;
+    END_FOR
+END
